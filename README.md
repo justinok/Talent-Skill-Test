@@ -12,4 +12,3 @@ No database manager like SQL or mongo is used. This is at the request of the tes
 Inside the administrator page you will have a CRUD for the movies.
 
 
-Translated with www.DeepL.com/Translator (free version)
